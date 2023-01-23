@@ -1,0 +1,26 @@
+h2 {
+    background-color: rgb(171, 147, 230);
+    text-align: center;
+    color:rgb(189, 214, 76)
+}
+
+button {
+    margin-left: 40%;
+    
+}
+
+.card {
+    margin-top: 50px;
+    margin-left: 100px;
+    /* align-items: stretch; */
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    flex: 1;
+
+}
+
+
+h5{
+    text-align: center;
+}
